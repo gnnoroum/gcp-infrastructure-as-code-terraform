@@ -4,7 +4,7 @@ This project demonstrates Infrastructure as Code (IaC) by provisioning Google Cl
 
 ---
 
-## 🔧 Project Overview
+ ## Project Overview
 
 - Configured Terraform Google provider
 - Authenticated using gcloud CLI and Application Default Credentials
@@ -15,7 +15,7 @@ This project demonstrates Infrastructure as Code (IaC) by provisioning Google Cl
 
 ---
 
-## 🏗 Technologies Used
+ ## Technologies Used
 
 - Google Cloud Platform (GCP)
 - Terraform
@@ -26,7 +26,7 @@ This project demonstrates Infrastructure as Code (IaC) by provisioning Google Cl
 
 ---
 
-## 🚀 Deployment Workflow
+##  Deployment Workflow
 
 1. Configure Google Cloud SDK (`gcloud init`)
 2. Authenticate using Application Default Credentials
@@ -37,7 +37,7 @@ This project demonstrates Infrastructure as Code (IaC) by provisioning Google Cl
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Terraform Initialization
 (Add screenshot here)
@@ -47,7 +47,7 @@ This project demonstrates Infrastructure as Code (IaC) by provisioning Google Cl
 
 ---
 
-## 💡 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Cloud infrastructure provisioning
 - Multi-cloud Terraform configuration
