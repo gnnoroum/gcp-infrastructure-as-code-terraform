@@ -1,1 +1,9 @@
+project_id = "skilful-firefly-464217-t5"
+# Optional overrides:
+# region = "us-east1"
+# zone   = "us-east1-b"
 
+# Security tip: replace with YOUR_PUBLIC_IP/32
+# ssh_source_ranges  = ["x.x.x.x/32"]
+# rdp_source_ranges  = ["x.x.x.x/32"]
+# icmp_source_ranges = ["x.x.x.x/32"]
